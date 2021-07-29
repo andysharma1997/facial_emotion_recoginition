@@ -1,0 +1,4 @@
+fer_model_path: /home/andy/Desktop/sken_project/facial_emotion_detection/model/trained_andy
+facenet_model_path: /home/andy/Desktop/sken_project/facial_emotion_detection/model/keras-facenet/model/facenet_keras.h5
+facenet_model_weights_path: /home/andy/Desktop/sken_project/facial_emotion_detection/model/keras-facenet/weights/facenet_keras_weights.h5
+skip_frame: 10

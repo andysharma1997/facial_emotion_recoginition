@@ -1,0 +1,13 @@
+# model creation
+https://towardsdatascience.com/facial-data-based-deep-learning-emotion-age-and-gender-prediction-47f2cc1edda7
+
+#sources
+https://github.com/priya-dwivedi/face_and_emotion_detection/blob/master/src/EmotionDetector_v2.ipynb
+
+https://www.kaggle.com/c/emotion-detection-from-facial-expressions
+
+https://towardsdatascience.com/building-a-multi-output-convolutional-neural-network-with-keras-ed24c7bc1178
+
+#data sets
+http://cvit.iiit.ac.in/projects/IMFDB/
+
